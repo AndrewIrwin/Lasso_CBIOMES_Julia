@@ -6,7 +6,7 @@ For CBIOMES Julia meeting discussion lead by [@jtsiddons](https://www.github.com
 
 ## Plan
 
-We look at using `Lasso.jl` and `GLMNet.jl` to perform penalised regression in Julia. I have created a quick dataset from the Narragansett Bay [NABATS.org](nabats.org), from which we will use environmental and meteorlogical variables to estimate surface salinity in the bay. I will start with a simple linear regression using `GLM.jl`.
+We look at using `Lasso.jl` and `GLMNet.jl` to perform penalised regression in Julia. I have created a quick dataset from the Narragansett Bay [NABATS.org](https://nabats.org), from which we will use environmental and meteorlogical variables to estimate surface salinity in the bay. I will start with a simple linear regression using `GLM.jl`.
 
 ### Introduction to Lasso Regression
 
